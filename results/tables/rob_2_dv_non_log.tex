@@ -1,0 +1,25 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{5}{c}}
+\toprule
+                    &\multicolumn{1}{c}{Stub}&\multicolumn{1}{c}{Start}&\multicolumn{1}{c}{C}&\multicolumn{1}{c}{B}&\multicolumn{1}{c}{A+}\\
+\midrule
+Bot edits $\times$ Human edits&    37.546***&    10.865***&     2.313***&     0.625***&     0.203***\\
+                    &   [0.000]   &   [0.000]   &   [0.000]   &   [0.000]   &   [0.000]   \\
+Bot edits           &    27.730***&     5.639***&     0.611***&     0.234***&     0.044** \\
+                    &   [0.000]   &   [0.001]   &   [0.010]   &   [0.009]   &   [0.048]   \\
+Human edits         &    44.816***&    13.256***&     2.975***&     0.693***&     0.185***\\
+                    &   [0.000]   &   [0.000]   &   [0.000]   &   [0.000]   &   [0.000]   \\
+Constant            &  -108.599*  &   -89.114***&   -18.109***&    -3.369   &    -1.355** \\
+                    &   [0.059]   &   [0.000]   &   [0.005]   &   [0.196]   &   [0.020]   \\
+WikiProject Fixed Effects&       Yes   &       Yes   &       Yes   &       Yes   &       Yes   \\
+Month Fixed Effects &       Yes   &       Yes   &       Yes   &       Yes   &       Yes   \\
+\midrule
+R-squared overall   &     0.398   &     0.458   &     0.553   &     0.366   &     0.458   \\
+R-squared within    &   .038893   &  .0217003   &  .0201681   &  .0439278   &  .0132044   \\
+Observations        &   146,170   &   146,170   &   146,170   &   146,170   &   146,170   \\
+\bottomrule
+\multicolumn{6}{l}{\footnotesize Clustered standard errors in parentheses; p-values in brackets.}\\
+\multicolumn{6}{l}{\footnotesize * p<0.10, ** p<0.05, *** p<0.01}\\
+\end{tabular}
+}

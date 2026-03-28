@@ -1,0 +1,33 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{5}{c}}
+\toprule
+                    &\multicolumn{1}{c}{Stub}&\multicolumn{1}{c}{Start}&\multicolumn{1}{c}{C}&\multicolumn{1}{c}{B}&\multicolumn{1}{c}{A+}\\
+\midrule
+Bot edits (Operation)&     0.060***&     0.037***&     0.037***&     0.010   &     0.003   \\
+                    &   [0.000]   &   [0.000]   &   [0.000]   &   [0.187]   &   [0.530]   \\
+Bot edits (Exception)&     0.026***&     0.019***&    -0.003   &    -0.003   &     0.004   \\
+                    &   [0.000]   &   [0.002]   &   [0.624]   &   [0.521]   &   [0.202]   \\
+Bot edits (Coordination)&     0.026***&     0.017***&     0.016***&     0.007   &     0.013***\\
+                    &   [0.000]   &   [0.002]   &   [0.002]   &   [0.114]   &   [0.000]   \\
+Human edits         &     0.398***&     0.342***&     0.208***&     0.099***&     0.051***\\
+                    &   [0.000]   &   [0.000]   &   [0.000]   &   [0.000]   &   [0.000]   \\
+Bot edits (Operation) $\times$ Human edits&     0.115***&     0.086***&     0.085***&     0.036***&     0.013***\\
+                    &   [0.000]   &   [0.000]   &   [0.000]   &   [0.000]   &   [0.004]   \\
+Bot edits (Exception) $\times$ Human edits&     0.072***&     0.067***&     0.031***&     0.043***&     0.047***\\
+                    &   [0.000]   &   [0.000]   &   [0.000]   &   [0.000]   &   [0.000]   \\
+Bot edits (Coordination) $\times$ Human edits&     0.010*  &     0.018***&     0.032***&     0.029***&    -0.004   \\
+                    &   [0.098]   &   [0.000]   &   [0.000]   &   [0.000]   &   [0.383]   \\
+Constant            &    -1.151***&    -0.808** &     0.016   &     0.033   &    -0.196   \\
+                    &   [0.001]   &   [0.013]   &   [0.949]   &   [0.880]   &   [0.140]   \\
+WikiProject Fixed Effects&       Yes   &       Yes   &       Yes   &       Yes   &       Yes   \\
+Month Fixed Effects &       Yes   &       Yes   &       Yes   &       Yes   &       Yes   \\
+\midrule
+R-squared overall   &     0.813   &     0.794   &     0.692   &     0.454   &     0.392   \\
+R-squared within    &  .1325615   &  .1259915   &  .0675034   &  .0232897   &  .0163167   \\
+Observations        &   146,170   &   146,170   &   146,170   &   146,170   &   146,170   \\
+\bottomrule
+\multicolumn{6}{l}{\footnotesize Clustered standard errors in parentheses; p-values in brackets.}\\
+\multicolumn{6}{l}{\footnotesize * p<0.10, ** p<0.05, *** p<0.01}\\
+\end{tabular}
+}

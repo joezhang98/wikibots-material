@@ -1,0 +1,29 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{5}{c}}
+\toprule
+                    &\multicolumn{1}{c}{Stub}&\multicolumn{1}{c}{Start}&\multicolumn{1}{c}{C}&\multicolumn{1}{c}{B}&\multicolumn{1}{c}{A+}\\
+\midrule
+Bot edits           &     0.084***&     0.048***&     0.045***&     0.020** &     0.006   \\
+                    &   [0.000]   &   [0.000]   &   [0.000]   &   [0.022]   &   [0.284]   \\
+Human talk edits    &     0.374***&     0.312***&     0.184***&     0.078***&     0.037***\\
+                    &   [0.000]   &   [0.000]   &   [0.000]   &   [0.000]   &   [0.000]   \\
+Human WP edits      &     0.064***&     0.061***&     0.037***&     0.019***&     0.018***\\
+                    &   [0.000]   &   [0.000]   &   [0.000]   &   [0.000]   &   [0.000]   \\
+Bot edits $\times$ Human talk edits&     0.163***&     0.127***&     0.107***&     0.066***&     0.031***\\
+                    &   [0.000]   &   [0.000]   &   [0.000]   &   [0.000]   &   [0.000]   \\
+Bot edits $\times$ Human WP edits&     0.004   &    -0.002   &    -0.007   &    -0.004   &     0.015***\\
+                    &   [0.452]   &   [0.667]   &   [0.104]   &   [0.482]   &   [0.000]   \\
+Constant            &    -1.272***&    -0.931***&    -0.051   &    -0.011   &    -0.241*  \\
+                    &   [0.000]   &   [0.004]   &   [0.840]   &   [0.960]   &   [0.075]   \\
+WikiProject Fixed Effects&       Yes   &       Yes   &       Yes   &       Yes   &       Yes   \\
+Month Fixed Effects &       Yes   &       Yes   &       Yes   &       Yes   &       Yes   \\
+\midrule
+R-squared overall   &     0.814   &     0.794   &     0.691   &     0.453   &     0.391   \\
+R-squared within    &  .1340377   &  .1254363   &  .0646571   &  .0206822   &  .0149142   \\
+Observations        &   146,170   &   146,170   &   146,170   &   146,170   &   146,170   \\
+\bottomrule
+\multicolumn{6}{l}{\footnotesize Clustered standard errors in parentheses; p-values in brackets.}\\
+\multicolumn{6}{l}{\footnotesize * p<0.10, ** p<0.05, *** p<0.01}\\
+\end{tabular}
+}

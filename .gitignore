@@ -1,0 +1,17 @@
+# macOS metadata
+.DS_Store
+
+# Python virtual environment
+wikibots-replication-venv/
+__pycache__/
+*.pyc
+
+# Stata batch log files
+*.log
+
+# Generated intermediate files (reproducible from source)
+processed/
+
+# Collection pipeline outputs (large intermediate files)
+raw/
+variables/

@@ -1,0 +1,121 @@
+Bot Index,Bot Task,Bot,Human Label,gpt-4o-2024-11-20,gpt-4o-mini-2024-07-18,claude-3-5-sonnet-20241022,gemini-1.5-pro-002,LLM Majority
+0,ShakataBot,ShakataBot,Other,Operational,Other,Other,Other,Other
+1,タチコマ robot,タチコマ robot,Interwiki,Other,Interwiki,Interwiki,Interwiki,Interwiki
+2,Topjabot~enwiki,Topjabot~enwiki,Other,Other,Other,Other,Other,Other
+3,WantedBot,WantedBot,Operational,Operational,Operational,Operational,Operational,Operational
+4,Qwerfjkl (bot) 17,Qwerfjkl (bot),Task allocation,Task allocation,Information provision,Information provision,Information provision,Information provision
+5,CVT-hater-bot,CVT-hater-bot,Other,Other,Other,Other,Exception management,Other
+6,PkbwcgsBot 13,PkbwcgsBot,Operational,Operational,Operational,Operational,Operational,Operational
+7,Makecat-bot 3,Makecat-bot,Operational,Operational,Operational,Other,Operational,Operational
+8,John Bot II,John Bot II,Operational,Operational,Operational,Operational,Operational,Operational
+9,SeveroBot,SeveroBot,Task division,Operational,Task division,Task division,Operational,Operational
+10,Lightbot 10,Lightbot,Operational,Operational,Operational,Operational,Operational,Operational
+11,TNTBot 4,TNTBot,Information provision,Operational,Operational,Operational,Operational,Operational
+12,WikiCleanerBot 22,WikiCleanerBot,Operational,Operational,Operational,Operational,Operational,Operational
+13,AstRoBot,AstRoBot,Operational,Operational,Operational,Operational,Operational,Operational
+14,Citation bot 4,Citation bot,Operational,Operational,Operational,Operational,Operational,Operational
+15,DownloadBot,DownloadBot,Other,Other,Other,Other,Other,Other
+16,Slowbot,Slowbot,Other,Other,Other,Other,Other,Other
+17,ChinaRailwayENGED,ChinaRailwayENGED,Task division,Task division,Operational,Task division,Operational,Task division
+18,MelonBot 5,MelonBot,Information provision,Information provision,Other,Information provision,Operational,Information provision
+19,A-lú-mih-bot,A-lú-mih-bot,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki
+20,BotMultichill 7,BotMultichill,Information provision,Information provision,Information provision,Information provision,Information provision,Information provision
+21,Pi bot 3,Pi bot,Task division,Task allocation,Task division,Task allocation,Information provision,Task allocation
+22,Citation bot 9,Citation bot,Operational,Operational,Operational,Operational,Operational,Operational
+23,WOSlinkerBot 9,WOSlinkerBot,Operational,Operational,Operational,Operational,Operational,Operational
+24,Beastie Bot,Beastie Bot,Task division,Operational,Operational,Operational,Operational,Operational
+25,جواد,جواد,Other,Other,Other,Other,Other,Other
+26,DinoBot2 3,DinoBot2,Operational,Operational,Operational,Operational,Operational,Operational
+27,SoxBot 21,SoxBot,Information provision,Task division,Operational,Task division,Operational,Task division
+28,DipankanBot,DipankanBot,Exception management,Exception management,Exception management,Exception management,Exception management,Exception management
+29,RjwilmsiBot 8,RjwilmsiBot,Operational,Operational,Operational,Operational,Operational,Operational
+30,BlackDemon2,BlackDemon2,Other,Other,Other,Other,Other,Other
+31,AnomieBOT 2,AnomieBOT,Task allocation,Task allocation,Operational,Operational,Task allocation,Task allocation
+32,SoxBot II 3,SoxBot II,Information provision,Information provision,Other,Information provision,Information provision,Information provision
+33,BendelacBOT,BendelacBOT,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki
+34,IndentBot,IndentBot,Operational,Operational,Operational,Operational,Operational,Operational
+35,Theo's Little Bot 6,Theo's Little Bot,Task division,Task division,Task division,Task division,Task division,Task division
+36,Rschen7754bot 6,Rschen7754bot,Operational,Task division,Operational,Task division,Operational,Task division
+37,Yobot 57,Yobot,Operational,Operational,Operational,Operational,Operational,Operational
+38,MartinBotIII 6,MartinBotIII,Operational,Operational,Operational,Operational,Operational,Operational
+39,WikiDreamer Bot,WikiDreamer Bot,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki
+40,AnomieBOT III 4,AnomieBOT III,Operational,Operational,Operational,Operational,Operational,Operational
+41,SdkbBot 2,SdkbBot,Operational,Operational,Operational,Operational,Operational,Operational
+42,DirlBot 3,DirlBot,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki
+43,DerBotvonI,DerBotvonI,Other,Other,Other,Other,Other,Other
+44,AnomieBOT,AnomieBOT,Operational,Operational,Operational,Operational,Operational,Operational
+45,Commander Keane bot,Commander Keane bot,Operational,Operational,Operational,Operational,Operational,Operational
+46,Yapperbot 2,Yapperbot,Operational,Operational,Operational,Operational,Operational,Operational
+47,BJBot,BJBot,Operational,Operational,Operational,Exception management,Operational,Operational
+48,SoxBot 5,SoxBot,Task allocation,Task allocation,Task allocation,Task allocation,Task allocation,Task allocation
+49,IdeoBot,IdeoBot,Other,Operational,Other,Information provision,Operational,Operational
+50,Monkbot 9,Monkbot,Operational,Operational,Operational,Operational,Operational,Operational
+51,WikiCleanerBot 18,WikiCleanerBot,Operational,Operational,Operational,Operational,Operational,Operational
+52,PrimeBOT 5,PrimeBOT,Operational,Operational,Operational,Operational,Operational,Operational
+53,B-bot 4,B-bot,Exception management,Exception management,Exception management,Exception management,Exception management,Exception management
+54,Theo's Little Bot 7,Theo's Little Bot,Task allocation,Task allocation,Task allocation,Task division,Operational,Task allocation
+55,FACBot,FACBot,Information provision,Operational,Task division,Information provision,Operational,Operational
+56,Phe-bot,Phe-bot,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki
+57,VsBot,VsBot,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki
+58,SdkbBot,SdkbBot,Operational,Operational,Operational,Operational,Operational,Operational
+59,Lightbot 13,Lightbot,Operational,Operational,Operational,Operational,Operational,Operational
+60,WOSlinkerBot 3,WOSlinkerBot,Information provision,Operational,Information provision,Operational,Operational,Operational
+61,Dexbot 10,Dexbot,Operational,Operational,Operational,Operational,Operational,Operational
+62,Petan-Bot 2,Petan-Bot,Information provision,Information provision,Information provision,Information provision,Information provision,Information provision
+63,SDPatrolBot 5,SDPatrolBot,Exception management,Exception management,Exception management,Exception management,Exception management,Exception management
+64,APersonBot 6,APersonBot,Information provision,Information provision,Information provision,Information provision,Information provision,Information provision
+65,ContinuityBot 3,ContinuityBot,Other,Other,Other,Other,Other,Other
+66,Aplikasi-Bot,Aplikasi-Bot,Other,Other,Other,Other,Other,Other
+67,Alaibot 3,Alaibot,Task division,Task division,Operational,Task division,Operational,Task division
+68,Guoguo12Bot,Guoguo12Bot,Other,Other,Other,Other,Other,Other
+69,ZackBot 10,ZackBot,Operational,Operational,Operational,Operational,Operational,Operational
+70,RileyBot 12,RileyBot,Task division,Task division,Operational,Operational,Operational,Operational
+71,Dreamy Jazz Bot,Dreamy Jazz Bot,Information provision,Information provision,Operational,Information provision,Information provision,Information provision
+72,GimmeBot 2,GimmeBot,Information provision,Operational,Operational,Operational,Operational,Operational
+73,TolBot 5,TolBot,Other,Operational,Operational,Operational,Operational,Operational
+74,BattyBot 22,BattyBot,Operational,Operational,Operational,Operational,Operational,Operational
+75,LSG1-Bot,LSG1-Bot,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki
+76,AnomieBOT 58,AnomieBOT,Operational,Operational,Operational,Operational,Operational,Operational
+77,Fettgesicht,Fettgesicht,Operational,Operational,Operational,Operational,Operational,Operational
+78,VulpesBot,VulpesBot,Information provision,Operational,Operational,Operational,Operational,Operational
+79,FastilyBot 6,FastilyBot,Information provision,Information provision,Information provision,Information provision,Information provision,Information provision
+80,JJMC89 bot 13,JJMC89 bot,Information provision,Information provision,Task allocation,Information provision,Information provision,Information provision
+81,DatBot 5,DatBot,Operational,Operational,Operational,Operational,Operational,Operational
+82,PrimeBOT 38,PrimeBOT,Operational,Operational,Operational,Operational,Operational,Operational
+83,LivingBot 15,LivingBot,Information provision,Information provision,Information provision,Information provision,Information provision,Information provision
+84,BU RoBOT 8,BU RoBOT,Operational,Operational,Operational,Operational,Operational,Operational
+85,DrilBot 3,DrilBot,Operational,Operational,Operational,Operational,Operational,Operational
+86,FastilyBot 14,FastilyBot,Information provision,Information provision,Information provision,Information provision,Information provision,Information provision
+87,HiTeCBot,HiTeCBot,Task division,Task division,Other,Task division,Information provision,Task division
+88,BattyBot 49,BattyBot,Operational,Operational,Operational,Operational,Operational,Operational
+89,EjsBot,EjsBot,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki
+90,Yet Another Redirect Cleanup Bot,Yet Another Redirect Cleanup Bot,Operational,Operational,Operational,Operational,Operational,Operational
+91,WikiCleanerBot 21,WikiCleanerBot,Operational,Operational,Operational,Operational,Operational,Operational
+92,UrbanBot 2,UrbanBot,Operational,Operational,Operational,Operational,Operational,Operational
+93,ListasBot 2,ListasBot,Operational,Operational,Operational,Operational,Operational,Operational
+94,Botrie,Botrie,Other,Other,Other,Other,Other,Other
+95,UrbanBot,UrbanBot,Operational,Operational,Operational,Operational,Operational,Operational
+96,KadaneBot 3,KadaneBot,Operational,Operational,Operational,Operational,Operational,Operational
+97,William Avery Bot 2,William Avery Bot,Operational,Operational,Operational,Operational,Operational,Operational
+98,UcuchaBot 3,UcuchaBot,Information provision,Operational,Operational,Operational,Operational,Operational
+99,TuvicBot,TuvicBot,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki
+100,Snotbot 5,Snotbot,Operational,Operational,Operational,Operational,Operational,Operational
+101,Pi bot 2,Pi bot,Operational,Operational,Operational,Operational,Operational,Operational
+102,WugBot 2,WugBot,Information provision,Task division,Operational,Task division,Operational,Task division
+103,TolBot 6,TolBot,Operational,Operational,Operational,Operational,Operational,Operational
+104,Junsi22,Junsi22,Other,Other,Other,Other,Other,Other
+105,WarddrBOT 2,WarddrBOT,Other,Operational,Operational,Operational,Operational,Operational
+106,Crypticbot,Crypticbot,Other,Other,Other,Other,Other,Other
+107,Adithyakbot,Adithyakbot,Operational,Operational,Operational,Operational,Operational,Operational
+108,SmackBot 41,SmackBot,Information provision,Operational,Operational,Operational,Operational,Operational
+109,STTWbot 2,STTWbot,Task allocation,Task allocation,Information provision,Information provision,Information provision,Information provision
+110,AntiSpamBot,AntiSpamBot,Exception management,Exception management,Exception management,Exception management,Exception management,Exception management
+111,Mir Almaat 1 S1,Mir Almaat 1 S1,Other,Other,Other,Other,Other,Other
+112,Rtz-bot,Rtz-bot,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki,Interwiki
+113,DanielBot 2,DanielBot,Information provision,Operational,Operational,Operational,Operational,Operational
+114,MetsBot 4,MetsBot,Operational,Operational,Operational,Operational,Operational,Operational
+115,FastilyBot 10,FastilyBot,Information provision,Operational,Operational,Information provision,Operational,Operational
+116,WPPageListBot,WPPageListBot,Task allocation,Information provision,Task allocation,Task division,Information provision,Information provision
+117,Rick Bot 4,Rick Bot,Information provision,Information provision,Task allocation,Information provision,Information provision,Information provision
+118,BOTijo 6,BOTijo,Operational,Operational,Operational,Operational,Operational,Operational
+119,PoplLyricsBot,PoplLyricsBot,Operational,Operational,Operational,Operational,Operational,Operational
